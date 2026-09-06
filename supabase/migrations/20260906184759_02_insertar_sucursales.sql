@@ -1,0 +1,22 @@
+INSERT INTO Sucursales (Nombre, Direccion, Correo) VALUES
+('Equinox Norte', 'Blvd. Suyapa 101, Tegucigalpa', 'norte@equinox.com'),
+('Equinox Sur', 'Av. Circunvalacion 202, San Pedro Sula', 'sur@equinox.com'),
+('Equinox Centro', 'Plaza Central 303, Comayagua', 'centro@equinox.com'),
+('Equinox Este', 'Mall Multiplaza 404, Tegucigalpa', 'este@equinox.com'),
+('Equinox Oeste', 'Colonia Satelite 505, San Pedro Sula', 'oeste@equinox.com'),
+('Equinox Elite', 'Zona VIP Los Andes 606, San Pedro Sula', 'elite@equinox.com'),
+('Equinox Express', 'Plaza Miraflores 707, Tegucigalpa', 'express@equinox.com'),
+('Equinox Pro', 'Distrito Fitness 808, Tegucigalpa', 'pro@equinox.com'),
+('Equinox Relax', 'Parque Industrial 909, Choloma', 'relax@equinox.com'),
+('Equinox Max', 'Centro Comercial 1010, La Ceiba', 'max@equinox.com'),
+('Equinox Urban', 'Barrio Alto 1111, Danli', 'urban@equinox.com'),
+('Equinox Zen', 'Camino Real 1212, Valle de Angeles', 'zen@equinox.com'),
+('Equinox Power', 'Av. Fuerza 1313, San Pedro Sula', 'power@equinox.com'),
+('Equinox Flex', 'Calle Elastica 1414, Tegucigalpa', 'flex@equinox.com'),
+('Equinox Cardio', 'Pista Atletica 1515, San Pedro Sula', 'cardio@equinox.com'),
+('Equinox Iron', 'Fundicion 1616, Choloma', 'iron@equinox.com'),
+('Equinox Vital', 'Salud 1717, Tegucigalpa', 'vital@equinox.com'),
+('Equinox Flow', 'Piscina 1818, La Ceiba', 'flow@equinox.com'),
+('Equinox Base', 'Estacion 1919, Comayagua', 'base@equinox.com'),
+('Equinox Prime', 'Torre Norte 2020, Tegucigalpa', 'prime@equinox.com');
+
