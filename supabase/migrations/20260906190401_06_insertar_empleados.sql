@@ -1,0 +1,22 @@
+
+INSERT INTO Empleados (Nombre, Telefono, numero_empleado, Direccion, Salario, id_sucursal, id_membresia) VALUES
+('Roberto Sosa', '9901-0001', 'EMP001', 'Col. Kennedy, Tegucigalpa', 1200.00, 1, 1), 
+('Patricia Lanza', '3302-0002', 'EMP002', 'Bo. Paz, San Pedro Sula', 1300.00, 2, 2),
+('Oscar Valle', '8803-0003', 'EMP003', 'Bo. Arriba, Comayagua', 1400.00, 3, 3), 
+('Karla Nieto', '9704-0004', 'EMP004', 'Col. Los Angeles, Tegucigalpa', 1500.00, 4, 4),
+('David Pineda', '3205-0005', 'EMP005', 'Res. Las Uvas, Tegucigalpa', 1600.00, 5, 5), 
+('Laura Cruz', '9606-0006', 'EMP006', 'Col. Loarque, Tegucigalpa', 1700.00, 6, 6),
+('Hector Lobo', '8507-0007', 'EMP007', 'Bo. El Centro, La Ceiba', 1800.00, 7, 7), 
+('Monica Paz', '3108-0008', 'EMP008', 'Res. El Sauce, San Pedro Sula', 1900.00, 8, 8),
+('Arturo Reyes', '9409-0009', 'EMP009', 'Col. Alameda, Tegucigalpa', 2000.00, 9, 9), 
+('Ximena Vega', '8310-0010', 'EMP010', 'Bo. San Jose, Danli', 2100.00, 10, 10),
+('Victor Rivas', '3211-0011', 'EMP011', 'Col. Torocagua, Comayagua', 2200.00, 11, 11), 
+('Beatriz Cano', '9512-0012', 'EMP012', 'Res. Santa Lucia, Tegucigalpa', 2300.00, 12, 12),
+('Fernando Erazo', '8413-0013', 'EMP013', 'Col. Cerro Grande, Tegucigalpa', 2400.00, 13, 13), 
+('Silvia Matute', '3114-0014', 'EMP014', 'Bo. Belen, San Pedro Sula', 2500.00, 14, 14),
+('Ernesto Zelaya', '9615-0015', 'EMP015', 'Col. Miramontes, Tegucigalpa', 2600.00, 15, 15), 
+('Valeria Aguilar', '8316-0016', 'EMP016', 'Res. El Portal, Tegucigalpa', 2700.00, 16, 16),
+('Samuel Bueso', '3217-0017', 'EMP017', 'Bo. Guamilito, San Pedro Sula', 2800.00, 17, 17), 
+('Daniela Funes', '9518-0018', 'EMP018', 'Col. Florencia, Tegucigalpa', 2900.00, 18, 18),
+('Ricardo Erazo', '8419-0019', 'EMP019', 'Res. Loma Verde, Tegucigalpa', 3000.00, 19, 19), 
+('Paola Giron', '3120-0020', 'EMP020', 'Col. Humuya, Tegucigalpa', 3100.00, 20, 20);
